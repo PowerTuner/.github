@@ -19,6 +19,8 @@ The daemon runs a TCP server, that means, you can connect to the daemon remotely
 
 The console client act as an overlay app, that can be activated with a gamepad key combo.
 
+See features overview in [PowerTuner Daemon](https://github.com/PowerTuner/PowerTunerDaemon#powertunerdaemon)
+
 ## Contributing
 
 - Please follow PowerTuner code style.
