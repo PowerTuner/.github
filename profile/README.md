@@ -1,6 +1,6 @@
 ## PowerTuner
 
-[Discord](https://discord.gg/3rRGa98ZwC) / [Patreon](https://www.patreon.com/c/PowerTuner)
+[Patreon](https://www.patreon.com/c/PowerTuner)
 
 **PowerTuner** is a multi-platform tuning app that uses the Client-Daemon model.
 
